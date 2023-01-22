@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Animax.jp" status="timeout",Animax (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:-1 tvg-id="ATX.jp" status="timeout",AT-X (720p)
+https://sub.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="BS12.jp" status="timeout",BS 12 (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+#EXTINF:-1 tvg-id="BSAsahi.jp" status="timeout",BS Asahi (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+#EXTINF:-1 tvg-id="BSFuji.jp" status="timeout",BS Fuji TV (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+#EXTINF:-1 tvg-id="BSNipponTV.jp" status="timeout",BS Nippon TV (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:-1 tvg-id="BSTBS.jp" status="timeout",BS TBS (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" status="timeout",BS TV Tokyo (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" status="timeout",Disney Channel Japan (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp" status="timeout",Fuji TV (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV.jp" status="timeout",Tokyo MX1 (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:-1 tvg-id="JORXDTV.jp" status="timeout",TBS (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" status="timeout",TV Tokyo (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 tvg-id="JSports1.jp" status="timeout",J Sports 1 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1 tvg-id="JSports2.jp" status="timeout",J Sports 2 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 tvg-id="JSports3.jp" status="timeout",J Sports 3 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKBS1.jp" status="timeout",NHK BS1 (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" status="timeout",NHK BSP (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" status="blocked",NHK E (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" status="timeout",NHK G (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" status="timeout",Nippon TV (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#EXTINF:-1 tvg-id="Star1.jp" status="timeout",Star 1 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
+#EXTINF:-1 tvg-id="Star2.jp" status="timeout",Star 2 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp" status="timeout",Tokyo MX1 (720p)
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp" status="timeout",Tokyo MX1 (720p)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" status="timeout",Tokyo MX2 (360p)
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" status="timeout",TV Asahi (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp" status="timeout",Weathernews (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
